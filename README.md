@@ -32,7 +32,7 @@ Through a technical write-up, code, and visualizations, we walk through why this
 ├── pyproject.toml  # Project dependencies (managed with uv)
 ├── uv.lock         # Locked dependency versions
 ├── writeup.pdf     # Project write-up
-└── yquantum.pptx   # Final presentation
+└── yquantum.pdf   # Final presentation
 ```
 
 ---
